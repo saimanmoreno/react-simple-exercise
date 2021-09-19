@@ -1,1 +1,1 @@
-# React Simple Exercise
+# React.js Simple Exercise
